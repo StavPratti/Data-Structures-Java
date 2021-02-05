@@ -1,0 +1,9 @@
+-------------------------------------------------------------------------------
+Test set: org.hua.stack.StackTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.063 sec <<< FAILURE!
+org.hua.stack.StackTest.testArrayStack()  Time elapsed: 0.036 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at org.hua.stack.StackTest.checkStack(StackTest.java:43)
+	at org.hua.stack.StackTest.testArrayStack(StackTest.java:22)
+
